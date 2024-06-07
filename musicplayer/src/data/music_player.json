@@ -1,0 +1,171 @@
+{
+    "songs":[
+        {
+            "id": "1",
+            "name": "Peaceful Piano",
+            "title": "Peaceful Piano Melodies",
+            "slug": "peaceful-piano",
+            "description": "Relaxing and soothing piano melodies to help you unwind.",
+            "audio_price": 9.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "https://sm.mashable.com/t/mashable_in/photo/default/arijit-singh-copy_ddzh.1248.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Jazz Vibes",
+            "title": "Smooth Jazz Vibes",
+            "slug": "jazz-vibes",
+            "description": "Smooth jazz tracks to elevate your mood.",
+            "audio_price": 12.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/150?text=Jazz+Vibes"
+        },
+        {
+            "id": "3",
+            "name": "Acoustic Guitar",
+            "title": "Acoustic Guitar Essentials",
+            "slug": "acoustic-guitar",
+            "description": "Essential acoustic guitar tracks for a relaxed atmosphere.",
+            "audio_price": 8.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image": "https://i.ytimg.com/vi/uKHlnmepnNA/maxresdefault.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Rock Classics",
+            "title": "Classic Rock Hits",
+            "slug": "rock-classics",
+            "description": "The best classic rock hits from the 70s and 80s.",
+            "audio_price": 10.99,
+            "instructor": "Michael Brown",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/150?text=Rock+Classics"
+        },
+        {
+            "id": "5",
+            "name": "Electronic Beats",
+            "title": "High-Energy Electronic Beats",
+            "slug": "electronic-beats",
+            "description": "High-energy electronic beats to get you moving.",
+            "audio_price": 11.99,
+            "instructor": "David Lee",
+            "isFeatured": true,
+            "image": "https://i.ytimg.com/vi/RuDQHtnIzHU/hqdefault.jpg"
+        }
+        ,
+        {
+            "id": "6",
+            "name": "Chill Lo-fi",
+            "title": "Chill Lo-fi Beats",
+            "slug": "chill-lofi",
+            "description": "Relaxing lo-fi beats perfect for studying or chilling.",
+            "audio_price": 7.99,
+            "instructor": "Alex Turner",
+            "isFeatured": true,
+            "image": "https://i.ytimg.com/vi/S51_bmqFXwM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLClRVQX9sVgGKQmEpGzKPTFdpOKLA"
+        },
+        {
+            "id": "7",
+            "name": "Classical Strings",
+            "title": "Classical Strings Collection",
+            "slug": "classical-strings",
+            "description": "A collection of timeless classical string pieces.",
+            "audio_price": 13.99,
+            "instructor": "Sophia Martinez",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/150?text=Classical+Strings"
+        },
+        {
+            "id": "8",
+            "name": "Hip Hop Rhythms",
+            "title": "Energetic Hip Hop Rhythms",
+            "slug": "hip-hop-rhythms",
+            "description": "High-energy hip hop beats to get the party started.",
+            "audio_price": 10.99,
+            "instructor": "Chris Johnson",
+            "isFeatured": true,
+            "image": "https://i.ytimg.com/vi/eizIc5eQiEM/sddefault.jpg?v=64a28ce0"
+        },
+        {
+            "id": "9",
+            "name": "Country Roads",
+            "title": "Country Roads Collection",
+            "slug": "country-roads",
+            "description": "The best country tracks for a road trip.",
+            "audio_price": 9.49,
+            "instructor": "Amy Jackson",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/150?text=Country+Roads"
+        },
+        {
+            "id": "10",
+            "name": "Reggae Vibes",
+            "title": "Feel-Good Reggae Vibes",
+            "slug": "reggae-vibes",
+            "description": "Uplifting reggae beats to brighten your day.",
+            "audio_price": 11.49,
+            "instructor": "Peter Clarke",
+            "isFeatured": true,
+            "image": "https://i.ytimg.com/vi/Z7ZdGwwj-LU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNrfRIPc7wWF64Z5wJptCfPNvUXQ"
+        },
+        {
+            "id": "11",
+            "name": "Pop Hits",
+            "title": "Popular Pop Hits",
+            "slug": "pop-hits",
+            "description": "The latest and greatest hits in pop music.",
+            "audio_price": 12.49,
+            "instructor": "Lisa Miller",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/150?text=Pop+Hits"
+        },
+        {
+            "id": "12",
+            "name": "Blues Legends",
+            "title": "Legendary Blues Tracks",
+            "slug": "blues-legends",
+            "description": "Classic blues tracks from legendary artists.",
+            "audio_price": 10.49,
+            "instructor": "Tom Parker",
+            "isFeatured": true,
+            "image": "https://i.ytimg.com/vi/rTU8I7AAPlQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATNnBmxhQYXajwzSOPmBDunC2rqg"
+        },
+        {
+            "id": "13",
+            "name": "Indie Favorites",
+            "title": "Indie Music Favorites",
+            "slug": "indie-favorites",
+            "description": "A selection of the best tracks from the indie scene.",
+            "audio_price": 8.99,
+            "instructor": "Rachel Green",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/150?text=Indie+Favorites"
+        },
+        {
+            "id": "14",
+            "name": "R&B Classics",
+            "title": "Classic R&B Tunes",
+            "slug": "rnb-classics",
+            "description": "Smooth and soulful R&B classics.",
+            "audio_price": 9.99,
+            "instructor": "John Davis",
+            "isFeatured": true,
+            "image": "https://i.ytimg.com/vi/_XBVWlI8TsQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAOpH_5S3ayKlmliapxBV3m0o6aaA"
+        },
+        {
+            "id": "15",
+            "name": "Dance Anthems",
+            "title": "Dance Floor Anthems",
+            "slug": "dance-anthems",
+            "description": "High-energy dance anthems to get you moving.",
+            "audio_price": 12.99,
+            "instructor": "Emily White",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/150?text=Dance+Anthems"
+        }
+    ]
+    
+}
